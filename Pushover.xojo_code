@@ -12,10 +12,10 @@ Protected Module Pushover
 	#tag EndNote
 
 
-	#tag Constant, Name = kAppToken, Type = Text, Dynamic = False, Default = \"a2dx4i4sn31wvhw8cj64eneh7i4pw2", Scope = Private
+	#tag Constant, Name = kAppToken, Type = Text, Dynamic = False, Default = \"<YourAppKeyHere>", Scope = Private
 	#tag EndConstant
 
-	#tag Constant, Name = kUserKey, Type = Text, Dynamic = False, Default = \"um4wtbvhg8mibcdu551pr9t4nbj9x9", Scope = Private
+	#tag Constant, Name = kUserKey, Type = Text, Dynamic = False, Default = \"<YourUserKeyHere>", Scope = Private
 	#tag EndConstant
 
 
